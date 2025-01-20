@@ -1,5 +1,1 @@
-title: My Jekyll Site
-description: A simple description of your site
-baseurl: ""
-url: "https://piotr-lichota342.github.io"
-theme: jekyll-theme-Texture
+theme: jekyll-theme-cayman
